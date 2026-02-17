@@ -127,7 +127,6 @@ Olá, seja bem-vindo(a) ao meu perfil! Me chamo Raphael, tenho 20 anos e sou um 
 <br/>
 
 ### 📊 Estatísticas
-<br/>
 <img 
     align="left" 
     alt="GitHub Stats" 
@@ -135,8 +134,6 @@ Olá, seja bem-vindo(a) ao meu perfil! Me chamo Raphael, tenho 20 anos e sou um 
     style="padding-right: 10px;" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelWillianBarbosadePaula&theme=tokyonight" alt="Estatisticas do GitHub de Raphael" 
 />
-
-<br/>
 
 <img 
     align="left" 
