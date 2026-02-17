@@ -128,21 +128,32 @@ Olá, seja bem-vindo(a) ao meu perfil! Me chamo Raphael, tenho 20 anos e sou um 
 
 ### 📊 Estatísticas
 <br/>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    width="770" 
+    style="padding-right: 10px;" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelWillianBarbosadePaula&theme=tokyonight" alt="Estatisticas do GitHub de Raphael" 
+/>
 
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelWillianBarbosadePaula&theme=tokyonight" alt="Estatisticas do GitHub de Raphael" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=RaphaelWillianBarbosadePaula&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Estatisticas do GitHub de Raphael" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zo-Bro-23's streak" src="https://streak-stats.demolab.com/?user=RaphaelWillianBarbosadePaula&theme=onedark&hide_border=true"/>
-  </a>
-</p>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    width="400" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.zohan.tech/api?username=RaphaelWillianBarbosadePaula&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" 
+/>
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=RaphaelWillianBarbosadePaula&layout=compact&hide_border=true&theme=tokyonight" /></a>
-</p>
+<img 
+    align="left" 
+    alt="Stacks" 
+    width="350" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.zohan.tech/api/top-langs/?username=RaphaelWillianBarbosadePaula&layout=compact&hide_border=true&theme=tokyonight" 
+/>
+
 
 
 
